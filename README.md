@@ -1,4 +1,5 @@
 # studcoinfirsttoken
+Here I have just Added the important source Code Which explain "How the creating a token happens".Refer the Source Code for more!!
 I have created my first token called "studcoin". Studcoin is special token which has given to certain student in an community for their contribution towards the community.           One can gift these token and based on the token we can to some "Solana" coins which fills their souls with the "SOL".
 
 One Can Start the coding with these part running into your CLI or Terminal as:
